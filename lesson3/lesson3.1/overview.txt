@@ -1,0 +1,10 @@
+In this lesson you will learn about:
+
+performing basic mathematical operations on variables and values using common symbols.
+assigning values to variables and/or performing basic mathematical operations using shorthand operations.
+comparing two values and/or variables against each other to return a true/false.
+using logical operators (and, or, and not).
+In the previous lesson, you learned how to create and set variables, but not what you can do with them beyond that. In
+this lesson, you will learn about modifying variables with the power of math, some shorthand assignment methods, and how
+to compare variables and values. Finally, we will go over how to use logical operators for “and,” “or,” and “not.”
+

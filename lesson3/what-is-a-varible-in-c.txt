@@ -1,0 +1,14 @@
+In this lesson you will learn about:
+
+The rules for naming variables in C.
+The main data types in C: int, float, double, and char.
+Declaring and initializing data types in C, as well as changing their value.
+Casting from one data type to another, and some potential limitations in C.
+
+Let’s start with what a variable is. It is a reference used to store information for future use. For instance, int score
+can be called later in your code to assign, change, compare, etc. In this example, you can see the basic structure of
+variable creation (known as declaration) is type variable_name. Have no fear, we will go over each part of this and more
+in this lesson. Specifically, we will cover how to create, name, assign, modify, and convert them to different types.
+
+As a bonus tip right from the start, you can create more than one variable of the same type at a time by listing them
+with commas between their names, like type variable1, variable_2, variable_3, variable_4.

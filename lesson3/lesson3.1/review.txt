@@ -1,0 +1,9 @@
+In this lesson you learned about:
+
+Basic mathematical operations in C: addition, subtraction, division, multiplication, incrementing, decrementing, and modulo.
+Assigning values to variables: =, +=, -=, *=, /=, %=
+Performing basic comparisons between values and variables: ==, !=, <, <=, >, >=
+Using logical operators in C: &&, ||, !.
+You now have the basic tools on which to build a strong understanding of coding in C.
+
+We have gone over a lot of very important foundational ideas, we encourage you to spend some time playing around with them in the console on the right.
